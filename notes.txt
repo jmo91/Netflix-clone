@@ -1,0 +1,5 @@
+-try requesting url again 22:00
+-center background image main
+-get request to work or make api secure another way
+-best way to reuse api url across react app
+-see how he got netflix signup background picture
